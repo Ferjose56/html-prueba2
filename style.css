@@ -1,11 +1,32 @@
-p{
-    text-align: center;
-}
-
 body{
     background: #CCCCCC;
 }
 
+#banner{
+    width: 100%;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#titulo{
+    text-align: center;
+    height: 150px;
+    border: 10px solid #000000;
+    padding: 20px;
+    margin: 40px;
+}
+
+
 strong em{
     color:red;
+}
+
+#mision{
+    font-size: 20px;
 }
