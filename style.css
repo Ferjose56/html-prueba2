@@ -1,6 +1,7 @@
-body{
-    
+.tituloPrincipal{
+    padding-left: 20px;
 }
+
 
 #banner{
     width: 100%;
@@ -15,7 +16,7 @@ p{
     text-align: center;
 }
 
-h1{
+.tituloCentro{
     text-align: center;
     /*height: 150px;
     border: 10px solid #000000;
@@ -36,10 +37,6 @@ strong em{
     background: #FFFFFF;
     padding: 30px;
 
-}
-
-h2{
-    text-align: center;
 }
 
 .item{
