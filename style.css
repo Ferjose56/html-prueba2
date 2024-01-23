@@ -1,9 +1,13 @@
 body{
-    background: #CCCCCC;
+    
 }
 
 #banner{
     width: 100%;
+}
+
+.bloque{
+    background: #CCCCCC;
 }
 
 p{
@@ -12,11 +16,10 @@ p{
 
 h1{
     text-align: center;
-    text-align: center;
-    height: 150px;
+    /*height: 150px;
     border: 10px solid #000000;
     padding: 20px;
-    margin: 40px;
+    margin: 40px;*/
 }
 
 
@@ -26,4 +29,17 @@ strong em{
 
 #mision{
     font-size: 20px;
+}
+
+.diferencial{
+    background: #FFFFFF;
+
+}
+
+h2{
+    text-align: center;
+}
+
+.item{
+    font-style: italic;
 }
