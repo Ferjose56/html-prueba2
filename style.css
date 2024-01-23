@@ -8,6 +8,7 @@ body{
 
 .bloque{
     background: #CCCCCC;
+    padding: 20px;
 }
 
 p{
@@ -33,6 +34,7 @@ strong em{
 
 .diferencial{
     background: #FFFFFF;
+    padding: 30px;
 
 }
 
@@ -42,4 +44,16 @@ h2{
 
 .item{
     font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagendif{
+    width: 50%;
+    
 }
